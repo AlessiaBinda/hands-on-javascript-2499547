@@ -4,7 +4,7 @@ const data = [
     created_at: "2022-07-13T14:28:03-04:00",
     updated_at: "2022-07-13T14:28:05-04:00",
     promoted_at: null,
-    width: 5616,
+    width: 5618,
     height: 3744,
     color: "#a68c73",
     blur_hash: "LHHdT#-URPs.~AwJxYxZJ8jFM|R*",
